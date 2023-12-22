@@ -65,7 +65,7 @@ Telegram: @asimerole
 ## Profile on Leet Code
 <div aligin=""center>
 <a href="https://leetcode.com/asimerole/" target="_blank">
-<img style="margin: 10px" src="[https://repository-images.githubusercontent.com/518200136/5bf288c8-5185-4fca-a476-42dd5b5dc99e](https://repository-images.githubusercontent.com/196491457/5e1a2980-bd8e-11ea-9511-266c4f67e51d)https://repository-images.githubusercontent.com/196491457/5e1a2980-bd8e-11ea-9511-266c4f67e51d" alt=leetcode style="margin-bottom: 5px;" height="100" width="200" />
+<img style="margin: 10px" src="https://repository-images.githubusercontent.com/196491457/5e1a2980-bd8e-11ea-9511-266c4f67e51d" alt=leetcode style="margin-bottom: 5px;" height="100" width="200" />
 </a>
 </div>
 
