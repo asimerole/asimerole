@@ -52,15 +52,23 @@ Telegram: @asimerole
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/artem-undefined-97912029b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo" Color=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/killer.gepa/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logo" Color=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/asimerole" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo" Color=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+##Profile on Leet Code
+
+<div aligin=""center>
+<a href="" target="_blank">
+<img src="https://repository-images.githubusercontent.com/518200136/5bf288c8-5185-4fca-a476-42dd5b5dc99e" alt=leetcode style="margin-bottom: 5px;" />
+</a>
+</div>
 
 
 
