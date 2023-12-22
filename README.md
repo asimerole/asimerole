@@ -7,17 +7,13 @@
   
 
 - 🔭 I’m interested in BackEnd  
-  
 
 - 🌱 I’m currently learning C++  
-  
 
 -  👀 How to reach me:
 Telegram: @asimerole  
-  
 
 - 😅 Fun fact: I'm a code perfectionist.  
-  
 
 <br/>  
 
