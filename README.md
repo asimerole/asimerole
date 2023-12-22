@@ -65,7 +65,7 @@ Telegram: @asimerole
 
 ## Listen with me
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=312hzcih4ypdjhva4pjp4rlswoda&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312hzcih4ypdjhva4pjp4rlswoda&cover_image=true&theme=novatorem&show_offline=true&background_color=f34f4f&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=312hzcih4ypdjhva4pjp4rlswoda&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312hzcih4ypdjhva4pjp4rlswoda&cover_image=true&theme=novatorem&show_offline=true&background_color=f34f4f&interchange=false&bar_color=53b14f&bar_color_cover=true)]
 
   
 
