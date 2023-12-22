@@ -3,21 +3,16 @@
 </div>  
   
 
-### <div align="center">Hey, I'm Artem 😆</div>  
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artem
-=============================================================================================================================
-
-* 🌍  I'm based in Ukraine
-* ✉️  You can contact me at [artemsepelea@gmail.com](mailto:artemsepelea@gmail.com)
-* 🧠  I'm learning C++
-  
+### <div align="center">Hey 👋🏻, I'm Artem 😆</div>  
 
 - 🔭 I’m interested in BackEnd  
 
 - 🌱 I’m currently learning C++  
 
 -  👀 How to reach me:
-Telegram: @asimerole  
+Telegram: @asimerole
+
+- ✉️  You can contact me at [artemsepelea@gmail.com](mailto:artemsepelea@gmail.com)
 
 - 😅 Fun fact: I'm a code perfectionist.  
 
