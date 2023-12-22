@@ -70,10 +70,4 @@ Telegram: @asimerole
 </div>  
   
 
-<br/>  
 
-<div align="center"><img src="" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
