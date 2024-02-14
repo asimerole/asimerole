@@ -14,8 +14,6 @@ Telegram: @asimerole
 
 - ✉️  You can contact me at [artemsepelea@gmail.com](mailto:artemsepelea@gmail.com)
 
-- 😅 Fun fact: I'm a code perfectionist.  
-
 <br/>  
 
 
